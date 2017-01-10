@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Udacity Meu Portfólio</string>
+
+    <!-- activity_main.xml -->
+    <string name="title_MainActivity">Meus Apps Nanodegree</string>
+    <string name="bt_filmesPopulares">Filmes Populares</string>
+    <string name="bt_stockHawk">Stock Hawk</string>
+    <string name="bt_facaMaior">Faça-o maior</string>
+    <string name="bt_appMaterial">Faça seu aplicativo com Material</string>
+    <string name="bt_sejaOnipresente">Seja onipresente</string>
+    <string name="bt_capstone">Capstone</string>
+</resources>
